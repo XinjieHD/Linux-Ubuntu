@@ -14,7 +14,6 @@ clear
 display_menu() {
    clear
    echo 'Program to Manage User Accounts '
-   echo 'Author            : Xinjie'
    echo ''
    echo 'A. Create User Account'
    echo 'B. Delete User Account'
