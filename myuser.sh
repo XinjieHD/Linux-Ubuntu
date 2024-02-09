@@ -1,5 +1,5 @@
 #!/bin/bash
-# File name: myscript.sh
+# File name: myuser.sh
 # Comments:
 # This bash script is purpose to create a menu to let users create/delete User Account.
 # Users also can change the parameters of their user account in menu.
@@ -119,4 +119,4 @@ do
 
 done
 
-# eof: myscript.sh
+# eof: myuser.sh
