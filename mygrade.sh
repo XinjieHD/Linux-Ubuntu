@@ -1,6 +1,5 @@
 #!/bin/bash
 # File name: mygrade.sh
-# Semester: Winter 2023
 # Comments:
 # This bash script is purpose to convert numerical grade into letter grade.
 # Make users input their assignment/test1/test2/final_exam grades, then get their letter grade.
